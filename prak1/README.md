@@ -6,7 +6,7 @@
 - NPM : 4523210111
 ##  Praktikum Tugas 1
 - Langkah-Langkah:
-![down git](./image/down git.png)
+![WhatsApp Image 2025-09-28 at 00 22 29_5efd817b](https://github.com/user-attachments/assets/811fe067-ec33-4354-8826-5672c4da6980)
 - Download GIT
 
 - Setelah Github didownload, cek Version GIT
